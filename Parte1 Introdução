@@ -1,0 +1,23 @@
+
+PARTE1:
+CMD (Command Prompt):
+
+Modo interativo: Modo em que você interage com o prompt de comando manualmente.
+Modo script: Modo em que os comandos são escritos em um arquivo com extensão .BAT ou .CMD, que é executado sequencialmente quando o arquivo é aberto no 
+prompt de comando.
+Características do CMD:
+
+Não trabalha com números de ponto flutuante.
+Não possui suporte a sockets ou multiprocessamento.
+Não possui uma interface gráfica com o usuário.
+É considerado lento em comparação com outras linguagens de programação.
+Vantagens do CMD:
+
+Lida bem com trabalhos de rede local.
+Capaz de automatizar tarefas comuns.
+Pode resolver qualquer problema específico do Windows.
+Facilmente integrado com outras linguagens de script.
+Oferece um conjunto de 38 comandos internos e 300 comandos externos.
+O CMD - BAT SCRIPT é uma ferramenta útil para automação de tarefas no Windows, especialmente em ambientes de rede local, mas pode ser limitado 
+em termos de recursos avançados,
+como suporte a números de ponto flutuante, programação de sockets e interface gráfica com o usuário.
