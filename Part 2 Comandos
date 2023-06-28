@@ -1,0 +1,34 @@
+Parte 2: Comandos básicos e personalização do cmd.exe
+
+O cmd.exe é o interpretador de comandos do Windows que permite executar várias operações através de comandos. Aqui estão alguns comandos básicos e opções de personalização para o cmd.exe:
+
+Comandos básicos:
+
+CLS: Limpa a tela do prompt de comando.
+ECHO: Exibe mensagens na tela ou ativa/desativa a exibição dos comandos no prompt.
+VER: Exibe a versão do sistema operacional.
+DATE: Exibe ou modifica a data atual do sistema.
+TIME: Exibe ou modifica a hora atual do sistema.
+START: Abre um aplicativo ou site.
+WINVER: Exibe informações sobre a versão do sistema operacional.
+EXIT: Fecha o prompt de comando.
+Comandos de navegação e listagem:
+
+CD : Navega para o diretório raiz do sistema.
+DIR: Lista os arquivos e pastas presentes no diretório atual.
+Opções de personalização:
+
+F8: Exibe o histórico de comandos digitados anteriormente.
+F9: Exibe a numeração dos comandos no histórico.
+Alt + F7: Apaga o histórico de comandos.
+DESKEY nota="C:\Windows\Notepad.exe" "C:\Users\jasjaos\aoasja|asjasjia\xl.txt": Abre o Bloco de Notas com o arquivo especificado.
+DESKEY /MACROS: Limpa todos os macros definidos.
+TITLE: Define um título para a janela do prompt de comando.
+COLOR /?: Exibe informações sobre como alterar as cores do texto e do fundo.
+MODE /STATUS: Exibe a largura e altura da tela.
+MODE 40,0: Define o número de linhas na tela.
+PROMPT /?: Exibe informações sobre como personalizar o prompt de comando.
+PROMPT curso: Define o prompt para exibir "curso" como prefixo.
+Para reverter para o prompt padrão, utilize $P$G.
+Esses são apenas alguns dos comandos e opções disponíveis no cmd.exe. Eles podem ser úteis para executar tarefas básicas, navegar pelo sistema de arquivos e personalizar a aparência e o comportamento do prompt de comando.
+
